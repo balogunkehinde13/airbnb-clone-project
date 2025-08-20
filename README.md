@@ -84,4 +84,32 @@ Defining clear **design specifications** (colors, typography, spacing) ensures:
 - **Scalability** when multiple developers/designers collaborate.  
 - **Brand identity** is maintained throughout the application.  
 - **Efficiency** in development by reducing guesswork.  
-- **Accessibility** by ensuring readable fonts and good color contrast.  
+- **Accessibility** by ensuring readable fonts and good color contrast.
+
+---
+
+## 👥 Project Roles and Responsibilities  
+
+| Role                | Responsibilities                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Project Manager** | Oversees project timeline, coordinates team efforts, and manages deliverables.   |
+| **Frontend Developers** | Implement UI components, ensure responsive design, and optimize performance. |
+| **Backend Developers**  | Build APIs, manage the database, and implement business logic.               |
+| **Designers**       | Create mockups, maintain the design system, and ensure UX quality.              |
+| **QA/Testers**      | Write test cases, perform manual/automated testing, and report bugs.             |
+| **DevOps Engineers**| Manage deployment, CI/CD pipelines, and server infrastructure.                   |
+| **Product Owner**   | Define requirements, prioritize features, and represent stakeholder needs.       |
+| **Scrum Master**    | Facilitate agile processes, remove blockers, and organize sprint ceremonies.     |
+
+---
+
+### 💡 Contribution to Project Success  
+- **Project Manager** keeps the project on track with deadlines and deliverables.  
+- **Frontend Developers** ensure the product looks and feels great across devices.  
+- **Backend Developers** provide reliable, secure, and scalable server-side functionality.  
+- **Designers** craft intuitive user experiences that align with brand identity.  
+- **QA/Testers** safeguard quality by preventing bugs from reaching production.  
+- **DevOps Engineers** streamline deployment, ensuring continuous delivery and uptime.  
+- **Product Owner** ensures the team builds the right product to meet user and business needs.  
+- **Scrum Master** nurtures team efficiency by maintaining agile practices and removing obstacles.  
+
