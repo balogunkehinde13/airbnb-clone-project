@@ -113,3 +113,36 @@ Defining clear **design specifications** (colors, typography, spacing) ensures:
 - **Product Owner** ensures the team builds the right product to meet user and business needs.  
 - **Scrum Master** nurtures team efficiency by maintaining agile practices and removing obstacles.  
 
+
+---
+
+## 🧩 UI Component Patterns  
+
+To ensure consistency, reusability, and scalability, the project will implement well-structured UI component patterns. Each component will be designed with responsiveness and accessibility in mind.  
+
+---
+
+### 🔹 Planned Components  
+
+#### 1. **Navbar**  
+- Logo  
+- Search bar  
+- User navigation (login, profile, bookings)  
+- Responsive menu for mobile devices  
+
+#### 2. **Property Card**  
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite button (save property)  
+- Responsive grid layout  
+
+#### 3. **Footer**  
+- Site links (About, Contact, Help)  
+- Company information  
+- Social media links  
+- Copyright information  
+
+---
+
+### 💡 Design Principle  
+Each component will be designed for **reusability and consistency** across the application. This ensures faster development, easier maintenance, and a cohesive user experience.  
